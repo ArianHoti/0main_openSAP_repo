@@ -1,9 +1,9 @@
 *&---------------------------------------------------------------------*
-*& Report ZSTEFAN_TOLLS_1A
+*& Report z_ordim-nlpla
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT zstefan_tolls_1a.
+REPORT z_ordim-nlpla.
 
 PARAMETERS: p_lgnum TYPE /scwm/lgnum,
             p_tanum TYPE /scwm/tanum.
